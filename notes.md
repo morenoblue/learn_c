@@ -363,17 +363,3 @@ they are talking about the same thing.
 The C standard was made to be very flexible, in other words it allows you to use
 it even in implementations that don't use the IEEE-754 standard. (Nowadays most
 computer will follow that standard though)
-
-
-=========================================================================================================================
-Go back to these nigg:
-
-    ALIGNMENT
-    COMPATIBLE TYPES
-    COMPOSITE TYPES
-    INCOMPLETE TYPES
-    TYPE NAMES
-    STRICT ALIASING
-
-
-=========================================================================================================================

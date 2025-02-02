@@ -42,7 +42,7 @@ First convince yourself that the function below if what we are trying to minimiz
 
 In other words, what we want is:
 
-2. $M^* = \operatorname*{argmin}_{M} \max\{M - L,\, R - M\}$
+2. $M^* = {argmin}_{M} \max\{M - L,\, R - M\}$
 
 To solve this, we can do:
 
